@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium" duration-ms="13357" started-at="2020-04-10T01:42:11 EDT" finished-at="2020-04-10T01:42:25 EDT">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="13357" started-at="2020-04-10T01:42:11 EDT" finished-at="2020-04-10T01:42:25 EDT">
+      <class name="com.lead.Selenium.Test.LoginTest">
+        <test-method status="PASS" signature="VerifyloginpageTitle()[pri:1, instance:com.lead.Selenium.Test.LoginTest@3a883ce7]" name="VerifyloginpageTitle" duration-ms="7379" started-at="2020-04-10T01:42:11 EDT" finished-at="2020-04-10T01:42:19 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyloginpageTitle -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.lead.Selenium.Test.LoginTest@3a883ce7]" name="loginTest" duration-ms="5911" started-at="2020-04-10T01:42:19 EDT" finished-at="2020-04-10T01:42:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.lead.Selenium.Test.LoginTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- Selenium -->
+</testng-results>
